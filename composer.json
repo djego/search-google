@@ -1,0 +1,6 @@
+{
+    "require": {
+        "serps/search-engine-google": "^0.1.2",
+        "serps/http-client-curl": "^0.1.0"
+    }
+}
